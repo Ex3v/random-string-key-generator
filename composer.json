@@ -2,7 +2,7 @@
     "name": "ex3v/random-string-key-generator",
     "description": "Library to generate random and unique YouTube-like string ids, as an alternative to UUID",
     "keywords": ["UUID", "unique", "keygen", "key generator", "youtube"],
-    "license": "DBAD",
+    "license": "MIT",
     "authors": [
         {
             "name": "Maciej Szkamruk",
