@@ -57,7 +57,7 @@ Just set up generator annotations (`GeneratedValue(strategy="CUSTOM")` and `Cust
  * @ORM\Id()
  * @ORM\Column(name="id", type="string")
  * @ORM\GeneratedValue(strategy="CUSTOM")
- * @ORM\CustomIdGenerator(class="App\RandomStringKeyGenerator\Doctrine\RandomStringKeyGenerator")
+ * @ORM\CustomIdGenerator(class="Ex3v\RandomStringKeyGenerator\Doctrine\RandomStringKeyGenerator")
  */
  private $id;
 ```
